@@ -14,6 +14,11 @@ default_args = {
     'retries': 1,
     'retry_delay': timedelta(minutes=5),
 }
+# API Details
+# API_KEY = "YOUR_API_KEY"
+# TICKER = "AAPL"
+# URL = f"https://api.polygon.io/v2/aggs/ticker/{TICKER}/prev?apiKey={API_KEY}"
+
 
 # Define API function
 def fetch_stock_data():
