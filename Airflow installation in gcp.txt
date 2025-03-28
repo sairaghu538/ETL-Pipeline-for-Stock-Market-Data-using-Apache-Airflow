@@ -1,0 +1,1 @@
+pip install pandas requests google-cloud-bigquery apache-airflow-providers-google

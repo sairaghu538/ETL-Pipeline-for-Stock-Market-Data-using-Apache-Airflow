@@ -1,0 +1,9 @@
+Several free and paid stock market APIs are available. Here are a few options:
+
+Polygon.io (Free with API Key) - https://polygon.io/
+
+Alpha Vantage (Free with API Key) - https://www.alphavantage.co/
+
+Yahoo Finance (yfinance) (Free, No API Key) - https://pypi.org/project/yfinance/
+
+For this project, we'll use Polygon.io because it provides structured historical and real-time stock data.
